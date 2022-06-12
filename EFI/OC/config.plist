@@ -324,6 +324,8 @@
 				<integer>1</integer>
 				<key>enable-dvmt-calc-fix</key>
 				<integer>1</integer>
+				<key>igfxfw</key>
+				<integer>2</integer>
 				<key>model</key>
 				<string>Intel Iris Plus Graphics G4 (Ice Lake)</string>
 			</dict>
